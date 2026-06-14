@@ -76,15 +76,15 @@ cd BookStore
 
 ## Running the Project
 
-Run the project through a local server because the site uses root-relative asset paths and a payment API request.
+Run the project through a local server because the payment page sends an API request.
 
 ### Option 1: VS Code Live Server
 
-Open the project folder in Visual Studio Code, install the Live Server extension, then right-click `index.html` and select `Open with Live Server`.
+Open the project folder in Visual Studio Code, install the Live Server extension, then right-click `BookStore/index.html` and select `Open with Live Server`.
 
 ### Option 2: Python Server
 
-Start a local server from the project folder:
+Start a local server from the repository root:
 
 ```bash
 python -m http.server 8000
@@ -93,5 +93,5 @@ python -m http.server 8000
 Open the site in your browser:
 
 ```text
-http://localhost:8000/index.html
+http://localhost:8000/BookStore/index.html
 ```
