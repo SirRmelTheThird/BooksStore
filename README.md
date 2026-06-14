@@ -1,6 +1,6 @@
 <div align="center">
 
-# Books Store
+# 📚 Books Store
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6)
@@ -11,7 +11,7 @@
 <img width="2560" height="1440" alt="Screenshot 2026-06-14 135551" src="https://github.com/user-attachments/assets/ba3e4a11-4734-4b4f-bf5d-bc4c6523465c" />
 
 
-## Overview
+## 📖 Overview
 
 Books Store is a static website for displaying a small collection of books. The home page shows book cards with cover images, descriptions, and payment buttons.
 
@@ -19,7 +19,7 @@ A simple responsive book store website where users can browse books, open the pa
 
 The site also includes separate navigation pages for About Us and Contact Us, plus a payment page that validates card details before sending them to an API.
 
-## Features
+## ✨ Features
 
 - Responsive desktop and mobile navigation
 - Book listing grid with cover images and descriptions
@@ -28,13 +28,13 @@ The site also includes separate navigation pages for About Us and Contact Us, pl
 - Client-side payment validation
 - Success page flow after a valid payment response
 
-## Site Concept
+## 🛒 Site Concept
 
 The aim of the website is to present books in a simple online store layout and allow users to move from browsing to payment.
 
 Each book card includes the book cover, title, description, and a Pay button. The payment page checks the user's card details and displays a response message before redirecting to the success page.
 
-## User Flow
+## 🧭 User Flow
 
 - Open the home page
 - Browse the available books
@@ -43,7 +43,7 @@ Each book card includes the book cover, title, description, and a Pay button. Th
 - Submit the form for validation
 - View the payment response and success page
 
-## Main Site Pages
+## 🗂️ Main Site Pages
 
 | Page | Description |
 |---|---|
@@ -53,14 +53,14 @@ Each book card includes the book cover, title, description, and a Pay button. Th
 | Payment | Collects and validates card details |
 | Success | Shows the payment success message |
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - Font Awesome
 
-## Installation
+## 📥 Installation
 
 Clone the repository:
 
@@ -74,7 +74,7 @@ Open the project folder:
 cd BooksStore
 ```
 
-## Running the Project
+## 🚀 Running the Project
 
 Run the project through a local server because the payment page sends an API request.
 
