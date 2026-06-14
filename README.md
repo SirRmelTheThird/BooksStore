@@ -8,7 +8,7 @@
 
 </div>
 
-<img width="1366" height="768" alt="Screenshot 2025-05-15 213910" src="https://github.com/user-attachments/assets/95378a73-6d35-48a3-8251-a10938dcdf91" />
+<img width="2560" height="1440" alt="Screenshot 2026-06-14 135551" src="https://github.com/user-attachments/assets/ba3e4a11-4734-4b4f-bf5d-bc4c6523465c" />
 
 
 ## Overview
