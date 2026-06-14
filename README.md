@@ -10,11 +10,12 @@
 
 <img width="1366" height="768" alt="Screenshot 2025-05-15 213910" src="https://github.com/user-attachments/assets/95378a73-6d35-48a3-8251-a10938dcdf91" />
 
-A simple responsive book store website where users can browse books, open the payment page, and submit card details through a validation form.
 
 ## Overview
 
 Books Store is a static website for displaying a small collection of books. The home page shows book cards with cover images, descriptions, and payment buttons.
+
+A simple responsive book store website where users can browse books, open the payment page, and submit card details through a validation form.
 
 The site also includes separate navigation pages for About Us and Contact Us, plus a payment page that validates card details before sending them to an API.
 
