@@ -1,6 +1,6 @@
 <div align="center">
 
-# Book Shop
+# Books Store
 
 </div>
 
