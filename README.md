@@ -1,6 +1,6 @@
 <div align="center">
 
-# Books Store
+# BookStore
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6)
@@ -13,7 +13,7 @@
 
 ## Overview
 
-Books Store is a static website for displaying a small collection of books. The home page shows book cards with cover images, descriptions, and payment buttons.
+BookStore is a static website for displaying a small collection of books. The home page shows book cards with cover images, descriptions, and payment buttons.
 
 A simple responsive book store website where users can browse books, open the payment page, and submit card details through a validation form.
 
