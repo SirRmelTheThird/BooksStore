@@ -8,7 +8,7 @@
 
 </div>
 
-<img width="2560" height="1440" alt="Screenshot 2026-06-14 135551" src="https://github.com/user-attachments/assets/ba3e4a11-4734-4b4f-bf5d-bc4c6523465c" />
+<img src="https://github.com/SirRmelTheThird/BooksStore/blob/main/BooksStore/docs/demo.gif?raw=true" alt="BooksStore Demo"/>
 
 
 ## 📖 Overview
