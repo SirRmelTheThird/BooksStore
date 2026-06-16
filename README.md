@@ -2,9 +2,10 @@
 
 # 📚 Books Store
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 
